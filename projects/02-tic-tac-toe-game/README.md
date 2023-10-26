@@ -18,12 +18,12 @@ Se crearon componentes, dinámicos y reactivos usando conceptos básicos de Reac
 
 ### 01. Pantallazo del juego hecho por mí
 
-<img alt="Proyecto 01: Creación de componentes" src="https://i.postimg.cc/B6wTXfV8/Captura-de-pantalla-2023-10-26-140112.png">
+<img alt="Proyecto 02: Uso de _useState_ y _useEffect_ en un aplicativo web de entretenimiento⚛️" src="https://i.postimg.cc/B6wTXfV8/Captura-de-pantalla-2023-10-26-140112.png">
 
 ### 02. Pantallazo del juego guardando la información en LocalStorage
 
-<img alt="Proyecto 01: Creación de componentes" src="https://i.postimg.cc/4y7zc2DW/Captura-de-pantalla-2023-10-26-140309.png">
+<img alt="Proyecto 02: Uso de _useState_ y _useEffect_ en un aplicativo web de entretenimiento⚛️" src="https://i.postimg.cc/4y7zc2DW/Captura-de-pantalla-2023-10-26-140309.png">
 
 ### 03. Pantallazo del código documentado
 
-<img alt="Proyecto 01: Creación de componentes" src="https://i.postimg.cc/zDgp2p2n/code.png">
+<img alt="Proyecto 02: Uso de _useState_ y _useEffect_ en un aplicativo web de entretenimiento⚛️" src="https://i.postimg.cc/zDgp2p2n/code.png">
