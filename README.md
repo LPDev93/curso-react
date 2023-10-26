@@ -13,4 +13,4 @@ Curso para aprender **React** basado en proyectos.
 **He tomado referencia y estudiado los vídeos del YouTuber [Midudev](https://www.youtube.com/@midulive) para la realización de este repositorio. Dejaré los vídeos en la siguiente lista:**
 
 - Proyecto 01: Creación de componentes
-- 02: 
+- Proyecto 02: Creación de un juego usando useState
