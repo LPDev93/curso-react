@@ -16,4 +16,4 @@ Curso para aprender **React** basado en proyectos.
 - Proyecto 02: Creación de un juego usando useState
 - Proyecto 03: Creación y manejo de eventos del mouse
 - Proyecto 04: Prueba Técnica React Jr. - APIs y Fetch
-- Proyecto 05: Prueba Técnica React Jr. - APIs y Fetch
+- Proyecto 05: E-Commerce en local
