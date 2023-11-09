@@ -27,5 +27,4 @@ Creación de un sistema _E-Commerce_ usando lo aprendido en el curso de _React_ 
 
 ### 03. Página del carrito de compras y localStorage
 
-<img alt="Proyecto 05: E-Commerce en localhost" src="https://i.postimg.cc/9Xk65CDY/Captura-de-pantalla-2023-11-08-192950.png
-">
+<img alt="Proyecto 05: E-Commerce en localhost" src="https://i.postimg.cc/9Xk65CDY/Captura-de-pantalla-2023-11-08-192950.png">
